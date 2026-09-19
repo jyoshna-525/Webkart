@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-colour: #ffffff;
+    colour: #222222;
+}
+
+.navbar .logo {
+    colour: #f47b20;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.navbar .logo span {
+    color: #00b3ff;
+}
+
+.hero h1 {
+    font-size: 25px;
+    color: rgb(128, 62, 44);
+}
+
+.hero h2 span {
+    color: rbg(128, )
+}
